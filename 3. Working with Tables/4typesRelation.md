@@ -10,6 +10,8 @@
  3. Many-to-many
  <img src="./resources/manyToManyRelation.jpg">
  - Each student can have many classes and each class can have many student
+
+
  4. One-to-one
    <img src="./resources/oneToOneRelation.jpg">
    
